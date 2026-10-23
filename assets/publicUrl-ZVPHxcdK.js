@@ -1,0 +1,1 @@
+import"./platform-D2bZmwek.js";function e(e,t){let n=t.replace(/^\//,``),r=e||`/`;return r===`./`||r===`.`?`/${n}`:r.endsWith(`/`)?`${r}${n}`:`${r}/${n}`}function t(t){return e(`/`,t)}export{t};
