@@ -1,0 +1,1 @@
+import{r as e}from"./react-SIfiwpqq.js";import{i as t}from"./accountApi-ixiiHsWC.js";import"./store-caW6KgYk.js";var n=e({emailAssignment:()=>r});async function r(e){return(await t(`/community/coaching/assignments/email`,{method:`POST`,body:e})).sent}export{n as t};
